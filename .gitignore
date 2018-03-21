@@ -1,0 +1,5 @@
+BuildRaspberryStep2.sh
+NOOBS/*
+NOOBS.tar
+root/*
+*.kate-swp
